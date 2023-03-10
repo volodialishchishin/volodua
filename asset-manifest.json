@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/volodu/static/css/main.4d6fd2e9.css",
+    "main.js": "/volodu/static/js/main.6553632f.js",
+    "static/js/787.beaca817.chunk.js": "/volodu/static/js/787.beaca817.chunk.js",
+    "index.html": "/volodu/index.html",
+    "main.4d6fd2e9.css.map": "/volodu/static/css/main.4d6fd2e9.css.map",
+    "main.6553632f.js.map": "/volodu/static/js/main.6553632f.js.map",
+    "787.beaca817.chunk.js.map": "/volodu/static/js/787.beaca817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6fd2e9.css",
+    "static/js/main.6553632f.js"
+  ]
+}
